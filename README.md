@@ -11,9 +11,7 @@ A Python-based automation tool that helps organize cluttered directories into we
 - 📄 Generates PDF report of file movements
 - 📝 Error logging for safe tracking
 - 🧠 Supports recursive directory traversal
-- 🎨 GUI built with Tkinter (Figma-inspired design)
 - 🛠️ Modular code structure for easy extension
-- 🧹 Option to Show/Hide logs in UI
 
 ---
 
